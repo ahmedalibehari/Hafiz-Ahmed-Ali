@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: cadetblue;
+    color: white;
+}
+.stopWatch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: chartreuse;
+    padding-top: 100px;
+}
+.timerDisplay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    padding-top: 80px;
+    border-radius: 10px;
+    color: black;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-top: 50px;
+}
+.sbtn{
+    padding: 12px 24px;
+    border-radius: 8px;
+    background-color: greenyellow;
+    font-size: 20px;
+    cursor: pointer;
+}
+.tbtn{
+    padding: 12px 24px;
+    border-radius: 8px;
+    background-color: red;
+    font-size: 20px;
+    cursor: pointer;
+}
+.rbtn{
+    padding: 12px 24px;
+    border-radius: 8px;
+    background-color: blue;
+    font-size: 20px;
+    cursor: pointer;
+}
