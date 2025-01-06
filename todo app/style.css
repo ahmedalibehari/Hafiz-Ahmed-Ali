@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    /* width: 100%; */
+    color: aqua;
+    background-color: blue;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-container{
+    display: flex;
+    width: 95%;
+    gap: 10px;
+    margin: 10px auto;
+}
+input{
+    flex: 1;
+    padding: 15px;
+    border-radius: 6px;
+}
+.btn{
+    border: none;
+    background-color: blue;
+    width: 150px;
+    border-radius: 8px;
+    color: chartreuse;
+}
