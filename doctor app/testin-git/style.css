@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    height: 400px;
+}
+.name{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 155px;
+}
+.name h4{
+    color: blue;
+} 
+.Qualification{
+    position: absolute;
+    top: 0;
+    left: 0;
+    top: 80px;
+}
+.Spacification{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 400px;
+    top: 80px;
+}
