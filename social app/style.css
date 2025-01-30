@@ -1,0 +1,23 @@
+h1{
+    background-color: aqua;
+    font-size: 05rem;
+    text-align: center;
+    color: orange;
+}
+.SingUp{
+    display: flex;
+    /* justify-content: center; */
+    gap: 15px;
+}
+/* .SingUp .btn{
+    cursor: pointer;
+} */
+#SingUpEmail{
+    flex: 1;
+}
+#SingUpPassword{
+    flex: 1;
+}
+#btn{
+    
+}
